@@ -5,7 +5,7 @@ I am an enthusiastic DevOps engineer with more than 8 years of experience in des
 With great experience in Kubernetes engineering, develops and maintains reliable production-grade and mission-critical applications and accelerates software delivery. Also, implements automation and infrastructure as code based on best practices and business needs as well.
 
 ## DevOps Engineer at Hamrahe Aval (MCI) · Full-time
-_Nov 2020 - Present · 1 yr 7 mos · Tehran, Iran_
+_Nov 2020 - Present · Tehran, Iran_
 
 Mobile Telecommunication Company of Iran (MCI) also known under its brand name Hamrahe
 Aval is the first and largest mobile operator in Iran.
