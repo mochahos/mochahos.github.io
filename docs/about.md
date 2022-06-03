@@ -72,4 +72,4 @@ Iran Telecom Research Center (ITRC), is the most experienced research entity in 
 
 **Technology Stacks: Linux, Oracle, VMware, MySQL, Nginx, Git, Python, Bash**
 
-[Back to Top](about.md#mohammad-hosein-chahardoli)
+[Back to Top](about.md)
